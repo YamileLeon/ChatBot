@@ -76,7 +76,7 @@ const flowQueja = addKeyword(['3', 'queja', 'sugerencia']).addAnswer(
     [flowQueja2]
 )
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'buenas', 'buenos'])
+const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'buenas', 'buenos', 'buen', 'día', 'que tal'])
     .addAnswer('Gracias por comunicarte a RefCom Cv, en qué podemos ayudarte?')
     .addAnswer(
         [
